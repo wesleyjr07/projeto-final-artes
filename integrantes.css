@@ -1,0 +1,37 @@
+body{
+    color: ghostwhite;
+        background-color: darkslategray;
+    }
+    img{
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        border: 5px solid rgb(8, 0, 255);
+    }
+    .wesley{
+        margin: 20px 10px 10px 0;
+        text-align: center;
+        
+    } 
+    .pedro{
+        margin: 20px 10px 10px 0;
+        text-align: center;
+    }
+    .gui{
+        margin: 0px 10px 10px 0;
+        text-align: center;
+    }
+   
+   
+    h3{
+text-align: right;
+       
+    }
+    a{
+        text-decoration: none;
+        color:rgb(0, 247, 255);
+    }
+    a:hover{
+        color: royalblue;
+    }
+      
